@@ -6,8 +6,6 @@ title: Tuner Privacy Policy
 
 **Effective date:** October 1, 2026
 
-This privacy policy describes how the Tuner app for Android (`com.caseycode.tuner`) handles your information.
-
 ## Summary
 
 Tuner does not collect, store, or share any personal information.
@@ -38,7 +36,3 @@ Tuner does not collect any information from anyone, including children under 13.
 ## Changes to this policy
 
 If this policy changes, the updated version will be posted on this page with a new effective date.
-
-## Contact
-
-If you have questions about this privacy policy, contact: **caseyboerst16@gmail.com**
